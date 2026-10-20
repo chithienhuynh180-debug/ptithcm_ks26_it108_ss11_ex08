@@ -1,5 +1,3 @@
-# Bài: 5 quy tắc vàng database
-
 ## Phần 1: Phân tích lỗi
 
 **1. các lỗi trong bảng**
@@ -23,7 +21,7 @@ filter so sánh từng ký tự chính xác. dấu cách cũng là 1 ký tự n�
 |-----|-----------|-------------|----------------|------------|
 | 1 | Nguyễn Văn An | CNTT | 8.5 | Đã duyệt |
 | 2 | Trần Thị Bình | CNTT | 7.9 | Chờ duyệt |
-| 3 | Lê Minh Châu | Điện tử | 8.2 | Đã duyệt |
+| 3 | Lê Minh Châu | Điện tử | 8.2 | Đã duyệt 
 
 - tên cột nằm ở hàng 1, mỗi cột 1 ô riêng, không merge
 - dữ liệu viết liền nhau từ hàng 2, xóa hết hàng trống
