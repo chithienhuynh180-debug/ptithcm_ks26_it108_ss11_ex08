@@ -1,4 +1,3 @@
-# Bài: 5 quy tắc vàng database
 
 ## Phần 1: Phân tích lỗi
 
